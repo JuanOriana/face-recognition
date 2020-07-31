@@ -9,7 +9,7 @@ It is not mandatory for each folder to have an inmense amount of pictures. Furth
 accuracy, they *will* make the program considerably slower.
 
 What *is* important is for the pictures to represent the subject cleary. The persons's face should be at least the 25% of the image. Ideally, facing the camera. Including bad
-images will not make the program more accuarate, quite the contrary, as you will probably need to lower the database tolerance if you dou so.
+images will not make the program more accuarate, quite the contrary, as you will probably need to lower the database tolerance if you do so.
 
 Here is an example of a good reference picture:
 
